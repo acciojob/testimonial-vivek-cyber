@@ -1,7 +1,9 @@
 /*  your css code here. If applicable */
-body
+*
 {
     background-color: rgba(85, 84, 84, 0.327);
+    padding:0px;
+    border:0px solid black
 }
 
 div{
